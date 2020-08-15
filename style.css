@@ -5,17 +5,12 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
 
-
 }
 
 body {
     background-color: #d9dcd6;
 }
 
-ul {
-
-
-  }
 
   li a:hover {
     background-color: #555;
@@ -32,3 +27,11 @@ ul {
      display: inline-block;
      font-size: 16px;
  }
+
+ .p-3 {
+    padding: 1rem!important;
+}
+
+.border{
+    border: 1px solid pink;
+}
